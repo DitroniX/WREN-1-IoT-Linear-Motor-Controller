@@ -2,5 +2,12 @@
 
 [![WREN1 Logo](https://ditronix.net/wp-content/uploads/2020/08/WREN-Smart-Device-Banner-0x0.jpg)](https://ditronix.net/)
 
-Documentation: Wiki https://ditronix.net/wiki/
+DitroniX WREN, is an IoT Linear Motor Controller SDK.  It was initially designed to easily, and safely, retrofit (plug and play), to industry standard Electric Reclining Chairs, with continued use of existing push buttons (or remote hand controller), through isolated input and outputs, whilst also allowing simultaneous electrical control from Smart Home Automation.
 
+Based on the popular Ai-Thinker ESP-12S (ESP8266), WREN has seen integration into a number of applications including, Elderly Assistance, Mobility Aid, Empowering the Disabled, Multi-chair Home Cinemas, Gentle Muscle Exercise Control and of course the humble Lounge Chair Gadget.  Through the flexible design and integrated dual-bridge motor controller, the DitroniX WREN SDK allows for a range of other single, or dual, DC Linear Motor applications, such as used in electric beds, shutters, blinds, vents and windows.
+
+The principle function of WREN, is to interface to existing electric recliner push buttons (or remote hand controller), and provide both existing electric reclining chair functionality, while also allowing control from IoT Home Automation.
+
+Further product and Wiki information maybe found on our website https://ditronix.net
+
+Tags: Accessibility, Amazon Alexa, DC Motor Controller, Designed and Made in Great Britain, Developer Community, DitroniX, Electric Recliner, Epressif, ESP-12S, ESP8266, Google Home, Hacker Projects, Home Automation, Home Cinema, IoT, Linear DC Motor Controller, Mobility, Mobility Chair Controller, MQTT, Open Source, Riser Recliner, SDK, SDK Developer Community, Smart Device, Smart Recliner, STEM, Voice Commands, Voice Controlled Switch, Wifi Remote Control, Wireless Remote Control, WREN
