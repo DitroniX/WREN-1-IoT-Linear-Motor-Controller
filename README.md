@@ -11,3 +11,13 @@ The principle function of WREN, is to interface to existing electric recliner pu
 Further product and Wiki information maybe found on our website https://ditronix.net
 
 Tags: Accessibility, Amazon Alexa, DC Motor Controller, Designed and Made in Great Britain, Developer Community, DitroniX, Electric Recliner, Epressif, ESP-12S, ESP8266, Google Home, Hacker Projects, Home Automation, Home Cinema, IoT, Linear DC Motor Controller, Mobility, Mobility Chair Controller, MQTT, Open Source, Riser Recliner, SDK, SDK Developer Community, Smart Device, Smart Recliner, STEM, Voice Commands, Voice Controlled Switch, Wifi Remote Control, Wireless Remote Control, WREN
+
+
+Further information can be found:
+
+- **Website** https://ditronix.net/
+- **WIKI**  https://ditronix.net/wiki/
+- **GitHub**  https://github.com/DitroniX/
+- **Shop**  https://ditronix.net/shop/
+
+Dave Williams | G8PUO | DitroniX 1981-2022 | ditronix.net
